@@ -1,0 +1,8 @@
+John,Smith,johnsmith@gmail.com,12053337754,1
+Abigail,Jones,ajones123@gmail.com,12059373384,0
+Cathy,Hewitt,cathyhewitt@yahoo.com,12568890054,1
+Bob,Sanders,bbsanders97@outlook.com,12059874456,3
+Cody,Johnson,cody_johnson@gmail.com,12569894800,0
+Marisa,Thompson,marisathompson1988@gmail.com,13349983609,3
+Deshawn,Harrison,dsharrison20@gmail.com,12057765330,2
+Sandra,Lee,sandra_lee1991@gmail.com,13346658877,1

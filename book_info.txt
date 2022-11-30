@@ -1,0 +1,8 @@
+Moby Dick,Herman,Melville,427,Harper and Brothers,4
+To Kill a Mockingbird,Harper,Lee,281,J.B. Lippencott & Co.,3
+Harry Potter and the Sorceror's Stone,J.K.,Rowling,223,Scholastic Inc.,7
+The Lord of the Rings,J.R.R.,Tolkien,1224,Allen & Unwin,3
+The Great Gatsby,F. Scott,Fitzgerald,208,Charles Scribner's Sons,6
+David Copperfield,Charles,Dickens,624,Bradbury & Evans,3
+Invisible Man,Ralph,Ellison,581,Random House,5
+Beloved,Toni,Morrison,324,Alfred A. Knopf Inc.,2
